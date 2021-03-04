@@ -26,7 +26,8 @@
     <preference name="EnableViewportScale" value="true"/>
     <preference name="SuppressesIncrementalRendering" value="true"/>
     <preference name="CordovaWebViewEngine" value="CDVUIWebViewEngine" />
-    <preference name="AllowInlineMediaPlayback" value="false"/>
+    <preference name="AllowInlineMediaPlayback" value="true"/>
+    <preference name="KeepRunning" value="false"/>
 
     <preference name="BackupWebStorage" value="none"/>
     <preference name="target-device" value="universal" />
