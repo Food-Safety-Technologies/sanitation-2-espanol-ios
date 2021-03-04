@@ -15,7 +15,6 @@
     <preference name="fullscreen" value="false" />
     <preference name="webviewbounce" value="false" />
     <preference name="disallowOverscroll" value="true" />
-    <preference name="exit-on-suspend" value="false" />
     <preference name="prerendered-icon" value="false" />
     <preference name="target-device" value="universal" />
     <preference name="SplashShowOnlyFirstTime" value="false" />
@@ -27,7 +26,7 @@
     <preference name="SuppressesIncrementalRendering" value="true"/>
     <preference name="CordovaWebViewEngine" value="CDVUIWebViewEngine" />
     <preference name="AllowInlineMediaPlayback" value="true"/>
-    <preference name="KeepRunning" value="false"/>
+    <preference name="exit-on-suspend" value="false" />
 
     <preference name="BackupWebStorage" value="none"/>
     <preference name="target-device" value="universal" />
