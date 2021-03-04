@@ -6,7 +6,7 @@
     </author>
     <content src="index.html" />
     <!-- <access origin="*" /> -->
-    <engine name="ios" spec="^6.1.0" />
+    <engine name="ios" spec="^9.0.0" />
     <!-- <preference name="ScrollEnabled" value="false" />
     <preference name="BackupWebStorage" value="none" />
     <preference name="SplashMaintainAspectRatio" value="true" />
